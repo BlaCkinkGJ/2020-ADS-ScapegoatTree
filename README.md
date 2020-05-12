@@ -1,2 +1,2 @@
-# 2020-ADS-ScapegoatTree
-Implementation of ScapegoatTree
+# 2020-ADS-VanEmdeBoasTree
+Implementation of VanEmdeBoasTree
