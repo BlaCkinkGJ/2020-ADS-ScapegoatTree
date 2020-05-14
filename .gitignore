@@ -53,3 +53,5 @@ dkms.conf
 
 # user defined ignore
 .vscode/
+test.inp
+test.out
